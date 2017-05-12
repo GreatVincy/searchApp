@@ -1,0 +1,4 @@
+host1:
+  host: localhost
+  port: 9200
+
